@@ -1,0 +1,7 @@
+pymupdf
+arxiv
+sentence-transformers
+psycopg2-binary
+pgvector
+fastapi
+uvicorn
